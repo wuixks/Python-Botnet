@@ -1,4 +1,4 @@
-⚠️ Legal Disclaimer
+# ⚠️ <u>**Legal Disclaimer**</u>
 
 This Python-based botnet project has been developed solely for educational, research, and authorized cybersecurity training purposes. 
 Its purpose is to demonstrate and analyze how botnet communication, command-and-control mechanisms, and distributed network behaviors function within controlled, lawful, 
