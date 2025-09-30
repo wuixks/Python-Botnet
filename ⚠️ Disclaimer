@@ -1,0 +1,22 @@
+⚠️ Legal Disclaimer
+
+This Python-based botnet project has been developed solely for educational, research, and authorized cybersecurity training purposes. 
+Its purpose is to demonstrate and analyze how botnet communication, command-and-control mechanisms, and distributed network behaviors function within controlled, lawful, 
+and permissioned environments — such as private labs or academic settings.
+
+Unauthorized deployment, distribution, or use of botnet software against networks, systems, or devices without explicit consent from the owner is illegal 
+and may violate laws including, but not limited to, the Computer Fraud and Abuse Act (CFAA) and similar legislation worldwide. 
+Engaging in such activity can lead to criminal prosecution, civil liability, and severe penalties.
+
+By downloading, executing, modifying, or distributing this software, **YOU** acknowledge and agree to the following:
+
+          1. You are solely responsible for ensuring that any use of this tool complies with all applicable laws and regulations.
+
+          2. I (wuixks) accept no liability for misuse, damage, legal consequences, or unauthorized activity resulting from the use of this software.
+
+          3. This tool is provided “as is,” without any express or implied warranties, including but not limited to warranties of merchantability, 
+              fitness for a particular purpose, or non-infringement.
+
+
+If you intend to use this software for penetration testing, malware research, or security assessments, 
+MAKE SURE YOU obtain explicit written authorization from the target system owner before conducting any activity.
